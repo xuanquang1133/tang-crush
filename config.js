@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: ' Nói nghe nè Tư ',
+    introTitle: ' Nói nghe nè Vy ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Nhắn tin tao nè  .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100053928908197' //link mess của các bạn. 
+    messLink: 'https://www.facebook.com/Quang090203/' //link mess của các bạn. 
 }
