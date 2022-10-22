@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tớ đồng ý , Yêu Quang quá điiii <333 ',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'FB mình nè .',
+    messDesc: 'Nhắn tin tao nè  .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/Quang090203' //link mess của các bạn. 
+    messLink: 'https://www.facebook.com/messages/t/100053928908197' //link mess của các bạn. 
 }
